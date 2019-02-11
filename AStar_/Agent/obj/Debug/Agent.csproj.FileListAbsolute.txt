@@ -1,0 +1,28 @@
+c:/users/jonathan.taylor2/source/repos/Agent/Agent/obj/Debug/Agent.csprojAssemblyReference.cache
+c:/users/jonathan.taylor2/source/repos/Agent/Agent/obj/Debug/Agent.csproj.CoreCompileInputs.cache
+c:/users/jonathan.taylor2/source/repos/Agent/Agent/bin/Debug/Agent.exe.config
+c:/users/jonathan.taylor2/source/repos/Agent/Agent/bin/Debug/Agent.exe
+c:/users/jonathan.taylor2/source/repos/Agent/Agent/bin/Debug/Agent.pdb
+c:/users/jonathan.taylor2/source/repos/Agent/Agent/obj/Debug/Agent.exe
+c:/users/jonathan.taylor2/source/repos/Agent/Agent/obj/Debug/Agent.pdb
+C:/Users/jonathan.taylor2/Desktop/Agent/Agent/obj/Debug/Agent.csprojAssemblyReference.cache
+C:/Users/jonathan.taylor2/Desktop/Agent/Agent/obj/Debug/Agent.csproj.CoreCompileInputs.cache
+C:/Users/jonathan.taylor2/Desktop/Agent/Agent/obj/Debug/Agent.exe
+C:/Users/jonathan.taylor2/Desktop/Agent/Agent/obj/Debug/Agent.pdb
+C:/Users/jonathan.taylor2/Desktop/Agent/Agent/bin/Debug/Agent.exe.config
+C:/Users/jonathan.taylor2/Desktop/Agent/Agent/bin/Debug/Agent.exe
+C:/Users/jonathan.taylor2/Desktop/Agent/Agent/bin/Debug/Agent.pdb
+C:/Users/lboo3/Desktop/Agent - Copy/Agent/bin/Debug/Agent.exe.config
+C:/Users/lboo3/Desktop/Agent - Copy/Agent/bin/Debug/Agent.exe
+C:/Users/lboo3/Desktop/Agent - Copy/Agent/bin/Debug/Agent.pdb
+C:/Users/lboo3/Desktop/Agent - Copy/Agent/obj/Debug/Agent.csprojAssemblyReference.cache
+C:/Users/lboo3/Desktop/Agent - Copy/Agent/obj/Debug/Agent.csproj.CoreCompileInputs.cache
+C:/Users/lboo3/Desktop/Agent - Copy/Agent/obj/Debug/Agent.exe
+C:/Users/lboo3/Desktop/Agent - Copy/Agent/obj/Debug/Agent.pdb
+/Users/gregorylevinson/Desktop/Agent - Copy/Agent/bin/Debug/Agent.exe.config
+/Users/gregorylevinson/Desktop/Agent - Copy/Agent/bin/Debug/Agent.exe
+/Users/gregorylevinson/Desktop/Agent - Copy/Agent/bin/Debug/Agent.pdb
+/Users/gregorylevinson/Desktop/Agent - Copy/Agent/obj/Debug/Agent.csprojAssemblyReference.cache
+/Users/gregorylevinson/Desktop/Agent - Copy/Agent/obj/Debug/Agent.csproj.CoreCompileInputs.cache
+/Users/gregorylevinson/Desktop/Agent - Copy/Agent/obj/Debug/Agent.exe
+/Users/gregorylevinson/Desktop/Agent - Copy/Agent/obj/Debug/Agent.pdb
