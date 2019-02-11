@@ -34,6 +34,12 @@ namespace Agent
             Console.ReadKey();
         }
 
+        //--------------------------- Calculate F Cost Function G+H cost
+        //private static void CalculateFcost(int x, int y)
+        //{
+        //    throw new NotImplementedException();
+        //}
+
         private static void CalculateGcost(int x, int y)
         {
             bool checkpath = true;
@@ -43,7 +49,7 @@ namespace Agent
                 if (Map.map[x, y].reference != null) {
                     if (Map.map[x, y].reference.x == x)
                     {
-                        Map.map[x, y].reference.x;
+                        //Map.map[x, y].reference.x;
                     } else if (Map.map[x, y].reference.x == y)
                     {
 
